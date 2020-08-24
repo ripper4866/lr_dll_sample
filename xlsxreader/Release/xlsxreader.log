@@ -1,0 +1,19 @@
+﻿  pch.cpp
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(65,61): error C2146: syntax error: missing ')' before identifier 'lval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(65,61): error C2365: 'NumberL': redefinition; previous definition was 'template parameter'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(65): message : see declaration of 'NumberL'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(65,1): error C2061: syntax error: identifier 'lval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(65,1): error C2059: syntax error: ')'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(65,61): error C2146: syntax error: missing ')' before identifier 'rval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(65,61): error C2146: syntax error: missing ';' before identifier 'rval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(66,1): error C2143: syntax error: missing ';' before '{'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(66,1): error C2447: '{': missing function header (old-style formal list?)
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(74,61): error C2146: syntax error: missing ')' before identifier 'lval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(74,61): error C2365: 'NumberL': redefinition; previous definition was 'template parameter'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(74): message : see declaration of 'NumberL'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(74,1): error C2061: syntax error: identifier 'lval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(74,1): error C2059: syntax error: ')'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(74,61): error C2146: syntax error: missing ')' before identifier 'rval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(74,61): error C2146: syntax error: missing ';' before identifier 'rval'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(75,1): error C2143: syntax error: missing ';' before '{'
+C:\vcpkg-master\installed\x86-windows\include\xlnt\utils\numeric.hpp(75,1): error C2447: '{': missing function header (old-style formal list?)
